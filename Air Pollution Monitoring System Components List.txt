@@ -1,0 +1,15 @@
+Air Pollution Monitoring System
+
+Online simulator: Tinkercad
+
+Components used:
+1. Arduino Uno R3
+2. LCD 16x2
+3. 220ohm resistor
+4. 4.7kohm resistor
+5. 10kohm resistor
+6. 1kohm resistor
+7. Gas sensor
+8. Yellow LED
+9. Red LED
+10. Green LED
